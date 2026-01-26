@@ -1,15 +1,4 @@
 ---
-title: Home
----
-
-# Home
-
-Welcome to my site.
-
-- [Summary](./
-
-[Summary
----
 icon: hand-wave
 layout:
   width: default

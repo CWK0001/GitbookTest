@@ -2,19 +2,6 @@
 title: Summary
 ---
 
-# Summary
-
-
-Hello from the summary page.
----
-title: Summary
----
-
-#Summary
-
-This is my summary page.
-# Table of contents
-
 * [Welcome](README.md)
 
 ## Getting Started

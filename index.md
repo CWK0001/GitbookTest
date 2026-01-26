@@ -6,7 +6,7 @@ title: Home
 
 Welcome to my site.
 
-- [Summary](./
+- [SUMMARY](./
 
 [Summary
 ---

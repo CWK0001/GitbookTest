@@ -1,8 +1,8 @@
 ---
-title: SUMMARY
+title: Summary
 ---
 
-# SUMMARY
+# Summary
 
 
 Hello from the summary page.

@@ -1,16 +1,16 @@
 ---
-title: Summary
+title: 17 July 2025 Clarity LIMS Hosted Instance Interruption – Resolved 
 type: page
 layout:
   section: false
   hideContent: false
 ---
 
-# Summary
+# 17 July 2025 Clarity LIMS Hosted Instance Interruption – Resolved 
+{% SET-14240 %}
 
 Your full content starts here.
-``# 17 July 2025 Clarity LIMS Hosted Instance Interruption – Resolved 
-{% SET-14240 %}
+``
 
 Published: Aug 15, 2025 
 

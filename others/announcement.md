@@ -4,8 +4,8 @@ CWK software is a powerful system designed to optimize genomics sample and workf
 
 ## Security Bulletin
 
-*   [Investigation of OpenSSH vulnerability with Clarity LIMS](../security-bulletin/investigation-of-openssh-vulnerability-with-clarity-lims.md)
+*   [Investigation of OpenSSH vulnerability with Clarity LIMS](../announcements/announcement/security-bulletin/investigation-of-openssh-vulnerability-with-clarity-lims.md)
 
 ## Customer Notifications
 
-*   [17 July 2025 Clarity LIMS Hosted Instance Interruption - Resolved](../customer-notifications/2025-july-17-clarity-lims-hosted-instance-interruption-resolved.md){% SET-14240 %}
+*   [17 July 2025 Clarity LIMS Hosted Instance Interruption - Resolved](../announcements/announcement/customer-notifications/17-july-2025-clarity-lims-hosted-instance-interruption-resolved.md){% SET-14240 %}

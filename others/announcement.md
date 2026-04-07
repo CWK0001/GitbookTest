@@ -4,6 +4,7 @@ CWK software is a powerful system designed to optimize genomics sample and workf
 
 ## Additional Resources
 * [NovaSeq X Series Integration v1.4.0 Release Notes](../int/novaseqx/novaseqx-hosted/novaseqx-v1.4.0/novaseqx-v1.4.0-release-notes.md)
+* [NovaSeq X Series On-Prem Integration v1.1.0 Release Notes](../int/novaseqx/novaseqx-onprem/novaseqx-onprem-v1.1.0/novaseqx-onprem-v1.1.0-release-notes.md)
 
 ## Security Bulletin
 

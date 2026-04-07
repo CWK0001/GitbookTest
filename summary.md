@@ -23,8 +23,9 @@
   * [Customer Notifications](announcements/announcement/customer-notifications/README.md)
     * [17 July 2025 Clarity LIMS Hosted Instance Interruption - Resolved](announcements/announcement/customer-notifications/17-july-2025-clarity-lims-hosted-instance-interruption-resolved.md)
 
+## Instruments & Integrations
 * NovaSeq X Series
-   * [NovaSeq X Series (Hosted)]
+   * [NovaSeq X Series (Hosted)](int/novaseqx/novaseqx-hosted/novaseqx.md)
       * [NovaSeq X Series v1.4.0](int/novaseqx/novaseqx-hosted/novaseqx-v1.4.0/novaseqx-v1.4.0-release-notes.md)
    * [NovaSeq X Series (On-Prem)]
       * [NovaSeq X Series On-Prem v1.1.0](int/novaseqx/novaseqx-onprem/novaseqx-onprem-v1.1.0/novaseqx-onprem-v1.1.0-release-notes.md)

@@ -1,0 +1,1 @@
+The Illumina NovaSeq X Series integration provides preconfigured workflows that map to established lab protocols and steps used with NovaSeq X Series sequencing instruments. The integration also supports the associated library prep kits, reagent kits, and assays used in these protocols.
